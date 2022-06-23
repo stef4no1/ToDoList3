@@ -1,0 +1,26 @@
+body{
+    background-color: burlywood;
+}
+.container{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+input{
+    margin-left: 10px;
+    padding: 5px;
+    background-color: rgb(184, 245, 175);
+}
+button{
+    background-color: rgb(43, 226, 76);
+    padding: 5px;
+    cursor: pointer;
+}
+li {
+    list-style: none;
+}
+i{
+    cursor: pointer;
+}
